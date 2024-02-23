@@ -1,0 +1,16 @@
+{
+  "name": "basilica",
+  "version": "1.0.0",
+  "description": "test npm",
+  "main": "index.html",
+  "scripts": {
+    "start": "browser-sync app -w"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^3.0.2",
+    "concurrently": "^8.2.2",
+    "sass": "^1.71.1"
+  }
+}
